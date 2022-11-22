@@ -47,7 +47,7 @@
     "babel-plugin-styled-components": "^1.10.7",
     "redux-devtools": "^3.5.0",
     "webpack": "^4.42.0",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.10.3"
   }
 }
